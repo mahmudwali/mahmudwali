@@ -1,5 +1,5 @@
-### Hi I'm Mahmud Wali 👋
-#### I am a Front-End Web Developer
+## Hi I'm Mahmud Wali 👋
+#### Front-End Web Developer
 "Hi, I'm Wali Mahmud, a dedicated ReactJS developer with a flair for creating captivating user interfaces. Leveraging my expertise in building interactive components and integrating APIs, I bring ideas to life. Committed to continuous learning and pushing the boundaries of web development to deliver exceptional user-centric solutions."
 
 Skills: JS / REACT / NEXT/ HTML / CSS
@@ -17,7 +17,4 @@ Skills: JS / REACT / NEXT/ HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudwali&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mahmudwali)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mahmudwali)  
-
